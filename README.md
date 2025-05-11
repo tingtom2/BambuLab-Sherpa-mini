@@ -1,5 +1,4 @@
-# 
-Bambu Lab-Sherpa-mini
+# Bambu Lab-Sherpa-mini
 适配了拓竹X1/P1P系列挤出齿轮的Sherpa mini
 
 挤出机适配了拓竹X1/P1P系列挤出齿轮，基于sherpa mini挤出机设计，与其结构外观类似，安装孔位距离相同。
