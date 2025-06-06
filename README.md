@@ -7,6 +7,19 @@
 
 结构件最好选用ABS打印，墙4，顶底4，填充100%。
 
+
+| 物料  | 数量 |
+| ------------- | ------------- |
+| 36mm斜齿电机  |  1  |
+| 拓竹X1/P1P系列挤出机齿轮（含轴承）  | 1  |
+| M3*25mm  | 2  |
+| M3*6mm | 2  |
+| M3*15mm  | 2  |
+| 直径3mm*18mm圆柱销  | 1  |
+| 直径3mm*14mm圆柱销  | 1  |
+| 热熔螺母M3*4*5mm  | 5  |
+
+
 组装视频【Sherpa mini与拓竹挤出轮的完美适配！】 https://www.bilibili.com/video/BV1nVLyzjEuQ/?share_source=copy_web&vd_source=684b9369c5f1a47552ffbf5cceab4d0c
 
 
